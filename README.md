@@ -2,14 +2,15 @@
 
 ### 👨 🤞 💻 About me
 
-🔭 I’m currently working on ... \
-🌱 I’m currently learning ... \
-👯 I’m looking to collaborate on ... \
-🤔 I’m looking for help with ... \
-💬 Ask me about ... \
-📫 How to reach me: ... \
-😄 Pronouns: ... \
-⚡ Fun fact: ... 
+🔭 I’m currently working on `Architecture designs` `Cloud architecture` \
+🌱 I’m currently learning `New technologies` `Algorithm` `System designs` \
+👯 I’m looking for some guys can drink & code \
+💬 Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion \
+📫 You can shoot me an email at thanhson201@gmail.com! I'll try to respond as soon as I can \
+😄 Pronouns: `bson` `ck` \
+📄 Please have a look at my [Résumé](https://sonck201.github.io) for more details about me. I'm open to feedback and suggestions!
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/sonck201/sonck201/master/asserts/night-coding.gif" align="right"/>
 
 ### Tech stack
 <p align="left">
