@@ -10,8 +10,6 @@
 😄 Pronouns: `bson` `ck` \
 📄 Please have a look at my [Résumé](https://sonck201.github.io) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/sonck201/sonck201/master/asserts/night-coding.gif" align="right"/>
-
 ### Tech stack
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -53,7 +51,10 @@
 </p>
 
 ### Connect with me
-![Skype](https://img.shields.io/badge/thanhson_it201-00AFF0?style=flat-square&logo=skype&logoColor=white)
-![Facebook](https://img.shields.io/badge/edwardbui201-1877F2?style=flat-square&logo=facebook&logoColor=white)
-![Gmail](https://img.shields.io/badge/thanhson201-D14836?style=flat-square&logo=gmail&logoColor=white)
-![Linkedin](https://img.shields.io/badge/Thanh%20Son%20Bui-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+<p align=center">
+  <a href="skype:thanhson_201?chat"><img src="https://img.shields.io/badge/thanhson_it201-00AFF0?style=flat-square&logo=skype&logoColor=white"/></a>
+  <a href="https://facebook.com/edwardbui201"><img src="https://img.shields.io/badge/edwardbui201-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:thanhson_201@gmail.com"><img src="https://img.shields.io/badge/thanhson201-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/thanh-son-bui-36a71539/"><img src="https://img.shields.io/badge/Thanh%20Son%20Bui-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=sonck201"/></a>
+</p>
