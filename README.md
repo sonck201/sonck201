@@ -52,6 +52,7 @@
 </p>
 
 ### Connect with me
-<p align="center">
-  <a href="skype:thanhson_it201"><img src="https://img.shields.io/badge/thanhson_it201-333333?style=flat-square&logo=skype"></a>
-</p>
+![Skype](https://img.shields.io/badge/thanhson_it201-00AFF0?style=flat-square&logo=skype&logoColor=white)
+![Facebook](https://img.shields.io/badge/edwardbui201-1877F2?style=flat-square&logo=facebook&logoColor=white)
+![Gmail](https://img.shields.io/badge/thanhson201-D14836?style=flat-square&logo=gmail&logoColor=white)
+![Linkedin](https://img.shields.io/badge/Thanh%20Son%20Bui-0077B5?style=flat-square&logo=linkedin&logoColor=white)
