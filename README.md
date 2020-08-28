@@ -53,5 +53,5 @@
 
 ### Connect with me
 <p align="center">
-  asdasd
+  [<img src="https://img.shields.io/badge/thanhson_it201-333333?style=flat-square&logo=skype">](https://www.google.com.vn/)
 </p>
