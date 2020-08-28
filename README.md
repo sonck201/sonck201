@@ -51,12 +51,10 @@
 </p>
 
 ### Connect with me
-![Skype](https://img.shields.io/badge/thanhson_it201-00AFF0?style=flat-square&logo=skype&logoColor=white)
-![Facebook](https://img.shields.io/badge/edwardbui201-1877F2?style=flat-square&logo=facebook&logoColor=white)
-![Gmail](https://img.shields.io/badge/thanhson201-D14836?style=flat-square&logo=gmail&logoColor=white)
-![Linkedin](https://img.shields.io/badge/Thanh%20Son%20Bui-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=sonck201)
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonck201&show_icons=true" alt="sonck201" />
+<p align=center">
+  <a href="skype:thanhson_201?chat"><img src="https://img.shields.io/badge/thanhson_it201-00AFF0?style=flat-square&logo=skype&logoColor=white"/></a>
+  <a href="https://facebook.com/edwardbui201"><img src="https://img.shields.io/badge/edwardbui201-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:thanhson_201@gmail.com"><img src="https://img.shields.io/badge/thanhson201-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/thanh-son-bui-36a71539/"><img src="https://img.shields.io/badge/Thanh%20Son%20Bui-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=sonck201"/></a>
 </p>
