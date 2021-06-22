@@ -62,3 +62,12 @@
   <a href="https://www.linkedin.com/in/thanh-son-bui-36a71539/"><img src="https://img.shields.io/badge/Thanh%20Son%20Bui-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=sonck201"/></a>
 </p>
+
+<p>
+  <a href="https://sonck201.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonck201&show_icons=true&include_all_commits=true&count_private=true&hide=stars,contribs" alt="Iamck stats" />
+  </a>
+  <a href="https://sonck201.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonck201&layout=compact" alt="Iamck top languages" />
+  </a>
+</p>
